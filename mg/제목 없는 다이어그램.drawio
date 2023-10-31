@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T12:36:09.155Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="20.7.4" etag="yGzI3h-GFsRo2qpFpIWS" type="github"><diagram id="mJVekvAvivd-U3duLSf_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-10-31T14:27:29.639Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="20.7.4" etag="9Ep668_AKJJ5iUyAyUsW" type="github">
+  <diagram id="Oc9VZ4RDsRu7IjmT5tZU" name="페이지-1">
+    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="3PDpEoZ0g_ruiQbjt8_G-1" target="3PDpEoZ0g_ruiQbjt8_G-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-1" value="PROVIDER&lt;br&gt;(PROVIDER_ID)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="3PDpEoZ0g_ruiQbjt8_G-2" target="3PDpEoZ0g_ruiQbjt8_G-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-2" value="ST&lt;br&gt;(ST_ID)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="3PDpEoZ0g_ruiQbjt8_G-3" target="3PDpEoZ0g_ruiQbjt8_G-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-3" value="CHGR&lt;br&gt;(CHGR_ID)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-6" value="MEM_AUTH_LIST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="170" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="3PDpEoZ0g_ruiQbjt8_G-8" target="3PDpEoZ0g_ruiQbjt8_G-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-8" value="MEMSH_CARD_INFO&lt;br&gt;(MEMSH_CARD_NO)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="170" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="3PDpEoZ0g_ruiQbjt8_G-9" target="3PDpEoZ0g_ruiQbjt8_G-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-9" value="CUST&lt;br&gt;(CUST_ID)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="60" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-12" value="BaseEntity를 상속받는 경우 EntityListeners를 사용하지 않아도 됨&lt;br&gt;@Valid 사용?&lt;br&gt;enum 사용하자.&lt;br&gt;@Enumerated(EnumType.STRING) 의 사용 이유&lt;br&gt;&lt;br&gt;즉시로딩 이유 (그리고 프록시로 인한 오류)&lt;br&gt;delYn 기본값 설정법&lt;br&gt;join 사용 예제 (fetchJoin)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="184" y="400" width="460" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
