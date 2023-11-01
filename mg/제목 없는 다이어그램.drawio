@@ -1,44 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T14:27:29.639Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="20.7.4" etag="9Ep668_AKJJ5iUyAyUsW" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T15:17:16.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="JFiMy6wZ0fyQD80UuE7o" version="22.0.8" type="github">
   <diagram id="Oc9VZ4RDsRu7IjmT5tZU" name="페이지-1">
-    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="3PDpEoZ0g_ruiQbjt8_G-1" target="3PDpEoZ0g_ruiQbjt8_G-2">
+        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;" parent="1" source="3PDpEoZ0g_ruiQbjt8_G-1" target="3PDpEoZ0g_ruiQbjt8_G-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-1" value="PROVIDER&lt;br&gt;(PROVIDER_ID)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-1" value="PROVIDER&lt;br&gt;(PROVIDER_ID)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="3PDpEoZ0g_ruiQbjt8_G-2" target="3PDpEoZ0g_ruiQbjt8_G-3">
+        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;" parent="1" source="3PDpEoZ0g_ruiQbjt8_G-2" target="3PDpEoZ0g_ruiQbjt8_G-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-2" value="ST&lt;br&gt;(ST_ID)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-2" value="ST&lt;br&gt;(ST_ID)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="3PDpEoZ0g_ruiQbjt8_G-3" target="3PDpEoZ0g_ruiQbjt8_G-6">
+        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;" parent="1" source="3PDpEoZ0g_ruiQbjt8_G-3" target="3PDpEoZ0g_ruiQbjt8_G-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-3" value="CHGR&lt;br&gt;(CHGR_ID)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-3" value="CHGR&lt;br&gt;(CHGR_ID)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-6" value="MEM_AUTH_LIST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-6" value="MEM_AUTH_LIST" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="170" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="3PDpEoZ0g_ruiQbjt8_G-8" target="3PDpEoZ0g_ruiQbjt8_G-6">
+        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERmany;endFill=0;" parent="1" source="3PDpEoZ0g_ruiQbjt8_G-8" target="3PDpEoZ0g_ruiQbjt8_G-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-8" value="MEMSH_CARD_INFO&lt;br&gt;(MEMSH_CARD_NO)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-8" value="MEMSH_CARD_INFO&lt;br&gt;(MEMSH_CARD_NO)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="170" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="3PDpEoZ0g_ruiQbjt8_G-9" target="3PDpEoZ0g_ruiQbjt8_G-8">
+        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;" parent="1" source="3PDpEoZ0g_ruiQbjt8_G-9" target="3PDpEoZ0g_ruiQbjt8_G-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-9" value="CUST&lt;br&gt;(CUST_ID)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-9" value="CUST&lt;br&gt;(CUST_ID)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="60" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-12" value="BaseEntity를 상속받는 경우 EntityListeners를 사용하지 않아도 됨&lt;br&gt;@Valid 사용?&lt;br&gt;enum 사용하자.&lt;br&gt;@Enumerated(EnumType.STRING) 의 사용 이유&lt;br&gt;&lt;br&gt;즉시로딩 이유 (그리고 프록시로 인한 오류)&lt;br&gt;delYn 기본값 설정법&lt;br&gt;join 사용 예제 (fetchJoin)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3PDpEoZ0g_ruiQbjt8_G-12" value="BaseEntity를 상속받는 경우 EntityListeners를 사용하지 않아도 됨&lt;br&gt;@Valid 사용?&lt;br&gt;enum 사용하자.&lt;br&gt;@Enumerated(EnumType.STRING) 의 사용 이유&lt;br&gt;&lt;br&gt;즉시로딩 이유 (그리고 프록시로 인한 오류)&lt;br&gt;delYn 기본값 설정법&lt;br&gt;join 사용 예제 (fetchJoin)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="184" y="400" width="460" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jiw7v772aGj4XKzgU2pW-1" value="토큰 요청&lt;br&gt;&lt;br&gt;처음에는 요청 클라이언트의 Origin 으로 허가된 사이트들에게만 토큰을 제공했었다.&amp;nbsp;&lt;br&gt;문제는 클라이언트가 Origin을 조작가능하다는 사실...&lt;br&gt;&lt;br&gt;그래서 바꾼 방식이 API를 제공하고 API를 사용하여 토큰을 요청하도록 하는것.&lt;br&gt;그런데 이 방식은 클라이언트에서 요청을 처리할 시 API키가 노출된다는 문제가 있었다.&lt;br&gt;그래서 서버-서버 통신방식으로 토큰을 요청하도록 안내하였다.&lt;br&gt;하지만... 내부망 특성상 서버에서 토큰 발행서버인 gis에 접근 못하는 경우가 있어&lt;br&gt;너무 불편하다는 문제가 있었다.&lt;br&gt;&lt;br&gt;그럼 어떻게 할까 생각 중&lt;br&gt;응답 url은 우리가 설정할 수 있지 않을까? 라는 생각이 들었다.&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="610" width="530" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
