@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T01:21:18.049Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="H2NcwkJMU9Pwj7m2e_5x" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T01:25:48.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="HiOceh8RAi-gnsr8U9Bf" version="22.1.11" type="github">
   <diagram id="Oc9VZ4RDsRu7IjmT5tZU" name="페이지-1">
     <mxGraphModel dx="1050" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -144,7 +144,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dKqDjVCrPPVPqC3nHR22-35" value="등록 모달창" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1180" width="120" height="130" as="geometry" />
+          <mxGeometry x="580" y="1170" width="120" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="dKqDjVCrPPVPqC3nHR22-38" value="주소검색" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1260" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dKqDjVCrPPVPqC3nHR22-39" value="카카오 주소검색" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1120" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="dKqDjVCrPPVPqC3nHR22-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dKqDjVCrPPVPqC3nHR22-40" target="dKqDjVCrPPVPqC3nHR22-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dKqDjVCrPPVPqC3nHR22-40" value="오라이동" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1190" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
