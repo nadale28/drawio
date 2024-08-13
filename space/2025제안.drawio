@@ -420,7 +420,7 @@
             <mxRectangle width="44" height="49" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qr-gAKX1dOZ294vi-QQT-34" value="제주특별자치도" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=11;" parent="qr-gAKX1dOZ294vi-QQT-32" vertex="1">
+        <mxCell id="qr-gAKX1dOZ294vi-QQT-34" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=11;" parent="qr-gAKX1dOZ294vi-QQT-32" vertex="1">
           <mxGeometry x="44" width="97" height="49" as="geometry">
             <mxRectangle width="97" height="49" as="alternateBounds" />
           </mxGeometry>
@@ -430,12 +430,12 @@
             <mxRectangle width="139" height="49" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qr-gAKX1dOZ294vi-QQT-47" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=11;" parent="qr-gAKX1dOZ294vi-QQT-32" vertex="1">
+        <mxCell id="qr-gAKX1dOZ294vi-QQT-47" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=11;" parent="qr-gAKX1dOZ294vi-QQT-32" vertex="1">
           <mxGeometry x="280" width="148" height="49" as="geometry">
             <mxRectangle width="148" height="49" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qr-gAKX1dOZ294vi-QQT-44" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=11;" parent="qr-gAKX1dOZ294vi-QQT-32" vertex="1">
+        <mxCell id="qr-gAKX1dOZ294vi-QQT-44" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=11;" parent="qr-gAKX1dOZ294vi-QQT-32" vertex="1">
           <mxGeometry x="428" width="72" height="49" as="geometry">
             <mxRectangle width="72" height="49" as="alternateBounds" />
           </mxGeometry>
@@ -490,7 +490,7 @@
           <mxGeometry x="885" y="2666" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Se9EH6oo_wqTPw4_BkC5-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="568.5" y="2707" width="115" height="27" as="geometry" />
+          <mxGeometry x="569.5" y="2707" width="115" height="27" as="geometry" />
         </mxCell>
         <mxCell id="Se9EH6oo_wqTPw4_BkC5-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="912" y="2780" width="387" height="331" as="geometry" />
@@ -562,13 +562,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="enBA9lFiSyZjGRra-E1j-1" value="사업예정지 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1119" y="3433" width="120" height="29" as="geometry" />
+          <mxGeometry x="1121" y="3457" width="120" height="29" as="geometry" />
         </mxCell>
         <mxCell id="enBA9lFiSyZjGRra-E1j-2" value="위치확인" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1149" y="3353" width="81" height="29" as="geometry" />
         </mxCell>
         <mxCell id="enBA9lFiSyZjGRra-E1j-3" value="위치확인" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1332" y="3339.75" width="81" height="29" as="geometry" />
+          <mxGeometry x="1149" y="3401" width="81" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="enBA9lFiSyZjGRra-E1j-4" value="&lt;font color=&quot;#ff0000&quot;&gt;추후 신청자 시스템이 활성화되어 민원인들이 회원가입했을 시 본 사업계획서가 연동되어야 함. 연동되는 기준을 사업자등록번호나 주민등록번호로 하려고 함&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="91.26" y="2751" width="320.37" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="enBA9lFiSyZjGRra-E1j-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.999;entryY=0.615;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Se9EH6oo_wqTPw4_BkC5-1" target="enBA9lFiSyZjGRra-E1j-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
