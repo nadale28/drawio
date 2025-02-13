@@ -213,7 +213,7 @@
         <mxCell id="gpAN5RRWkUEyHtBk9evE-58" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="gpAN5RRWkUEyHtBk9evE-47">
           <mxGeometry y="80" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gpAN5RRWkUEyHtBk9evE-59" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="gpAN5RRWkUEyHtBk9evE-58">
+        <mxCell id="gpAN5RRWkUEyHtBk9evE-59" value="점용목적" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="gpAN5RRWkUEyHtBk9evE-58">
           <mxGeometry width="120" height="40" as="geometry">
             <mxRectangle width="120" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -236,7 +236,7 @@
         <mxCell id="gpAN5RRWkUEyHtBk9evE-63" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="gpAN5RRWkUEyHtBk9evE-47">
           <mxGeometry y="120" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gpAN5RRWkUEyHtBk9evE-64" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="gpAN5RRWkUEyHtBk9evE-63">
+        <mxCell id="gpAN5RRWkUEyHtBk9evE-64" value="점용면적 또는 공작물 구조" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="gpAN5RRWkUEyHtBk9evE-63">
           <mxGeometry width="120" height="40" as="geometry">
             <mxRectangle width="120" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -289,7 +289,10 @@
           <mxGeometry x="330" y="1030" width="199.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gpAN5RRWkUEyHtBk9evE-76" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="535" width="321" height="30" as="geometry" />
+          <mxGeometry x="248" y="535" width="321" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gpAN5RRWkUEyHtBk9evE-77" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="248" y="575" width="201" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
