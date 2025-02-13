@@ -294,6 +294,12 @@
         <mxCell id="gpAN5RRWkUEyHtBk9evE-77" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="248" y="575" width="201" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gpAN5RRWkUEyHtBk9evE-78" value="위치입력" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="588" y="537" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="gpAN5RRWkUEyHtBk9evE-79" value="점용장소의 시작, 종료 지점 모두 저장하는게 맞을까?&lt;div&gt;선이라서 시작, 종료 지점 전부 저장해야하긴 하는데,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="730" width="330" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
