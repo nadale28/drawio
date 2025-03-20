@@ -334,6 +334,9 @@
         <mxCell id="m0K-4BFiqrVzaKG6K5ZI-154" value="&amp;nbsp;- 주제도" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BDBDBD;align=left;" vertex="1" parent="1">
           <mxGeometry x="576.63" y="1730" width="263.75" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="m0K-4BFiqrVzaKG6K5ZI-155" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="158" y="1518" width="302" height="362" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
