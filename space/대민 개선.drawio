@@ -577,8 +577,8 @@
         <mxCell id="pmyYG5NLRRaD0F0RDxmc-44" value="시안 1&lt;div&gt;&amp;nbsp;네이버, 카카오, 구글 등 보편적으로 사용되는 모바일 디자인&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;spacingLeft=7;spacingRight=4;" vertex="1" parent="1">
           <mxGeometry x="49.5" y="830" width="300" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pmyYG5NLRRaD0F0RDxmc-45" value="시안 2&lt;div&gt;&amp;nbsp;좌측 상단 메뉴버튼을 누르면 좌측에 메뉴가 나타남.&lt;/div&gt;&lt;div&gt;지도를 조금 더 크게 사용할 수 있는 장점이 있음&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;spacingLeft=7;spacingRight=4;" vertex="1" parent="1">
-          <mxGeometry x="441.52" y="830" width="300" height="70" as="geometry" />
+        <mxCell id="pmyYG5NLRRaD0F0RDxmc-45" value="시안 2&lt;div&gt;&amp;nbsp;좌측 상단 메뉴버튼을 누르면 좌측에 메뉴가 나타남.&lt;/div&gt;&lt;div&gt;지도를 조금 더 크게 사용할 수 있는 장점이 있음. 하지만 기능 사용을 위해 두번의 터치가 필요한 불편함이 존재함&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;spacingLeft=7;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="441.52" y="830" width="300" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
