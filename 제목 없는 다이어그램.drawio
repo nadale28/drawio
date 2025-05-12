@@ -1,74 +1,9 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
-  <diagram name="페이지-1" id="h5C2fpXgqtlo49AbQVyt">
-    <mxGraphModel dx="2261" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.13">
+  <diagram name="페이지-1" id="vyjsBXghV34NcQ4sCRsW">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4jHtGSL97AQZpXhwawnG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4jHtGSL97AQZpXhwawnG-1" target="4jHtGSL97AQZpXhwawnG-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4jHtGSL97AQZpXhwawnG-1" value="건설 룡일 pc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4jHtGSL97AQZpXhwawnG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4jHtGSL97AQZpXhwawnG-2" target="4jHtGSL97AQZpXhwawnG-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4jHtGSL97AQZpXhwawnG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4jHtGSL97AQZpXhwawnG-2" target="4jHtGSL97AQZpXhwawnG-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4jHtGSL97AQZpXhwawnG-2" value="cafe24" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4jHtGSL97AQZpXhwawnG-3" value="was" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="70" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="4jHtGSL97AQZpXhwawnG-4" value="db" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="130" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="4jHtGSL97AQZpXhwawnG-5" value="jinwoosi.co.kr&lt;div&gt;183.111.199.217&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="165" y="170" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4jHtGSL97AQZpXhwawnG-8" value="3306" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="190" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4jHtGSL97AQZpXhwawnG-9" value="21, 22" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="40" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4jHtGSL97AQZpXhwawnG-11" value="&lt;span style=&quot;color: rgb(94, 148, 236); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Malgun Gothic&amp;quot;, &amp;quot;맑은 고딕&amp;quot;, helvetica, &amp;quot;Apple SD Gothic Neo&amp;quot;, helvetica, &amp;quot;나눔바른고딕 옛한글&amp;quot;, &amp;quot;NanumBarunGothic YetHangul&amp;quot;, sans-serif; font-size: 18px; font-weight: 600; letter-spacing: -0.3px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;211.184.197.11&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="170" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4jHtGSL97AQZpXhwawnG-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="230" as="sourcePoint" />
-            <mxPoint x="100" y="40" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4jHtGSL97AQZpXhwawnG-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4jHtGSL97AQZpXhwawnG-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4jHtGSL97AQZpXhwawnG-14" value="회사" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4jHtGSL97AQZpXhwawnG-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="290" as="sourcePoint" />
-            <mxPoint x="110" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4jHtGSL97AQZpXhwawnG-17" value="차단 설정은 cafe24" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="280" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4jHtGSL97AQZpXhwawnG-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="280" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4jHtGSL97AQZpXhwawnG-19" value="1. ping 테스트 결과 아무나 붙을수 있음" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="410" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4jHtGSL97AQZpXhwawnG-20" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;jinwoosi.co.kr /&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;jinwoosoft&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;jinwoosoft&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;thvmxm35.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="440" width="170" height="120" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
