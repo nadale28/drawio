@@ -1,9 +1,81 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.0.3">
   <diagram name="페이지-1" id="EVzapDDogStlcn7QtBNQ">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pwariOMakqaS6qeMe4lK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="270" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pwariOMakqaS6qeMe4lK-3" value="4.3유적지" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="265" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pwariOMakqaS6qeMe4lK-4" value="-" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="270" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pwariOMakqaS6qeMe4lK-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="300" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pwariOMakqaS6qeMe4lK-6" value="유적지 유형별 구분" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="296" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pwariOMakqaS6qeMe4lK-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="426" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pwariOMakqaS6qeMe4lK-8" value="권역계 레이어" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="421" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pwariOMakqaS6qeMe4lK-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="210" y="426" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pwariOMakqaS6qeMe4lK-10" value="-" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="300" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pwariOMakqaS6qeMe4lK-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="456" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pwariOMakqaS6qeMe4lK-13" value="지구계 레이어" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="451" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pwariOMakqaS6qeMe4lK-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="210" y="456" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pwariOMakqaS6qeMe4lK-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="486" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pwariOMakqaS6qeMe4lK-16" value="정비구역계 레이어" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="481" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pwariOMakqaS6qeMe4lK-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="210" y="486" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pwariOMakqaS6qeMe4lK-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="331" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pwariOMakqaS6qeMe4lK-19" value="4.3성" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="326" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pwariOMakqaS6qeMe4lK-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="331" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pwariOMakqaS6qeMe4lK-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="361" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pwariOMakqaS6qeMe4lK-22" value="기타" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="356" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pwariOMakqaS6qeMe4lK-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="240" y="361" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pwariOMakqaS6qeMe4lK-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="391" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pwariOMakqaS6qeMe4lK-25" value="민간인 수용소" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="386" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pwariOMakqaS6qeMe4lK-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="240" y="391" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
