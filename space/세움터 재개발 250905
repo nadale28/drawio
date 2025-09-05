@@ -4,6 +4,42 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-1" value="용어 정리" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="20" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCh7yqyx3ZpdfqIlRJ-2-3" target="hCh7yqyx3ZpdfqIlRJ-2-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-3" value="&amp;nbsp;일반건축물&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="100" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-7" value="&amp;nbsp;건물하나에 소유주가 한명이라면 일반건축물이라 한다." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="260" y="100" width="390" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCh7yqyx3ZpdfqIlRJ-2-11" target="hCh7yqyx3ZpdfqIlRJ-2-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-11" value="&amp;nbsp;집합건축물&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="150" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-12" value="&amp;nbsp;만약 1층에 점포가 3개 있고 소유자가 다르다. 이런걸 집합건축물이라 한다." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="390" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-16" value="총괄표제부" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="260" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-17" value="&amp;nbsp;일반건축물&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="230" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-18" value="&amp;nbsp;하나의 대지에 건물이 두 개 이상 있는 경우, 이런 경우에 이 두개의 내용을 보기위한 종괄표제부가 존재한다. 근데 이런 경우는 드물다." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="390" y="230" width="390" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-19" value="&amp;nbsp;집합건축물&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-20" value="&amp;nbsp;하나의 대지에 건물이 두 개 이상 있는 경우, 이런 경우에 이 두개의 내용을 보기위한 종괄표제부가 존재한다. 근데 이런 경우는 드물다." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="390" y="280" width="390" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
