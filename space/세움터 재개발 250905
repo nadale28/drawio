@@ -230,16 +230,46 @@
           <mxGeometry x="212.75" y="2230" width="202" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-95" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0808;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="15" y="2415.03" width="560" height="266" as="geometry" />
+          <mxGeometry x="15" y="2380" width="560" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-98" value="EAIS_KCYPMSRGST_GIS&lt;div&gt;(건축물대장)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-98" value="EAIS_KCYPROGSTATE_1015_AS&lt;div&gt;(건축허가/신고)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="45" y="2461.0299999999997" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-100" value="EAIS_KCYPROGSTATE_GIS&lt;div&gt;(건축인허가진행상태)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="45" y="2531.0299999999997" width="240" height="50" as="geometry" />
+        <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-100" value="EAIS_KCYPROGSTATE_1020_AS&lt;div&gt;(허가/신고사항변경)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="2520.0299999999997" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-101" value="LSMD_CONT_LDREG_50K&lt;br&gt;&lt;div&gt;(연속지적도)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="2511.0299999999997" width="240" height="50" as="geometry" />
+          <mxGeometry x="320" y="2559.9999999999995" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-104" value="EAIS_KCYPROGSTATE_1030_AS&lt;div&gt;(착공)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="2580" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-105" value="EAIS_KCYPROGSTATE_1035_AS&lt;div&gt;(착공연기)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="2640" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-106" value="EAIS_KCYPROGSTATE_1040_AS&lt;div&gt;(행위자변경)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="2700" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-107" value="EAIS_KCYPROGSTATE_1048_AS&lt;div&gt;(분양신고)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="2760" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-108" value="EAIS_KCYPROGSTATE_1050_AS&lt;div&gt;(임시사용)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="2820" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-109" value="EAIS_KCYPROGSTATE_1055_AS&lt;div&gt;(사용승인)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="2880" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-110" value="EAIS_KCYPROGSTATE_1060_AS&lt;div&gt;(축조허가)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="2940" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-111" value="EAIS_KCYPROGSTATE_1065_AS&lt;div&gt;(존치기간연장)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="3000" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-114" value="인허가진행상태 별로 분류된 테이블을 지적도와 join 하여 레이어로 서비스" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="2640" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-116" value="EAIS_KCYPROGSTATE_GIS 테이블에 있는&lt;div&gt;JOB_STEP_GB_CD 값을 기준으로 분류&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="2410" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
