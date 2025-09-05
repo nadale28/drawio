@@ -271,6 +271,9 @@
         <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-116" value="EAIS_KCYPROGSTATE_GIS 테이블에 있는&lt;div&gt;JOB_STEP_GB_CD 값을 기준으로 분류&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="55" y="2410" width="240" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="hCh7yqyx3ZpdfqIlRJ-2-117" value="연계 분석" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="350" y="3130" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
