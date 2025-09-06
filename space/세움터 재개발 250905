@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0">
   <diagram name="페이지-1" id="o6KqDLGFhGPXgnpfwPCX">
-    <mxGraphModel dx="619" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1141" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -345,6 +345,21 @@
         </mxCell>
         <mxCell id="VH6Z0ZgjPFkxIiHiAUJ0-35" value="&lt;div&gt;ARCH_PMS_DAY =&amp;gt;&amp;nbsp;ARCH_PMS_DATE (건축허가일자)&lt;/div&gt;BC_LAT =&amp;gt; BCLAT (건폐율)&lt;div&gt;VL_RAT =&amp;gt; VLRAT (용적율)&lt;/div&gt;&lt;div&gt;PMS_CNCL_DAY =&amp;gt;&amp;nbsp;PMS_CANCL_DATE (허가취소일자)&lt;/div&gt;&lt;div&gt;CNCL_CAUS =&amp;gt;&amp;nbsp;CANCL_RESN (취소사유)&lt;/div&gt;&lt;div&gt;PMS_LOSS_DAY =&amp;gt; EFECT_FRFTR_DATE (효력상실일자)&lt;/div&gt;&lt;div&gt;STCNS_SCHED_DAY =&amp;gt; STCNS_PRRNG_DATE (착공예정일자)&lt;/div&gt;&lt;div&gt;STCNS_DELAY_CAUS =&amp;gt;&amp;nbsp;STCNS_DELAY_RESN (착공연기사유)&lt;/div&gt;&lt;div&gt;STCNS_DELAY_DAY =&amp;gt;&amp;nbsp;STCNS_DELAY_DATE (착공연기일자)&lt;/div&gt;&lt;div&gt;REAL_STCNS_DAY =&amp;gt;&amp;nbsp;REAL_STCNS_DATE (실제착공일자)&lt;/div&gt;&lt;div&gt;TMP_USEAPR_EXP_DAY =&amp;gt; TMP_USEAPR_EXP_DATE (임시사용승인만료일자)&lt;/div&gt;&lt;div&gt;EDCNS_SCHED_DAY =&amp;gt;&amp;nbsp;EDCNS_PRRNG_DATE (준공예정일자)&lt;/div&gt;&lt;div&gt;USEAPR_DAY =&amp;gt;&amp;nbsp;USEAPR_DATE (사용승인일자)&lt;/div&gt;&lt;div&gt;TMPBLD_PRSV_EXP_DAY =&amp;gt;&amp;nbsp;TMPBLD_PRSV_EXP_DATE (가설건축물존치만료일자)&lt;/div&gt;&lt;div&gt;TMPBLD_TRSCT_DAY =&amp;gt;&amp;nbsp;TMPBLD_PROCESS_DATE (가설건축물처리일자)&lt;/div&gt;&lt;div&gt;TMPBLD_TRACT_CD =&amp;gt; TMPBLD_PROCESS_GB_CD (가설건축물처리구분코드)&lt;/div&gt;&lt;div&gt;DEMOL_STRT_DAY =&amp;gt;&amp;nbsp;DEMOL_STRT_DATE (철거시작일자)&lt;/div&gt;&lt;div&gt;DEMOL_END_DAY =&amp;gt; DEMOL_END_DATE (철거종료일자)&lt;/div&gt;&lt;div&gt;DEMOL_EXTNG_DAY =&amp;gt; DEMOL_EXTNG_DATE (철거멸실일자)&lt;/div&gt;&lt;div&gt;DEMOL_EXTNG_CAUS =&amp;gt; DEMOL_EXTNG_RESN (철거멸실사유)&lt;/div&gt;&lt;div&gt;VL_RAT_ESTM_TOTAREA =&amp;gt; VLRAT_CALC_TOTAREA (용적률산정연면적)&lt;/div&gt;&lt;div&gt;MAIN_PURPS_CD =&amp;gt; MAIN_PRPOS_CD (주용도코드)&lt;/div&gt;&lt;div&gt;ETC_PURPS =&amp;gt; ETC_PRPOS_CNTT (기타용도내용)&lt;/div&gt;&lt;div&gt;HHLD_CNT =&amp;gt; HHLDCNT (세대수)&lt;/div&gt;&lt;div&gt;VIOL_BLD_YN =&amp;gt; VIOLBLD_YN (&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;위반건축물여부&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="139" y="4246" width="495.75" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="VH6Z0ZgjPFkxIiHiAUJ0-38" value="변경이력관리" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="587" y="4890" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VH6Z0ZgjPFkxIiHiAUJ0-39" value="EAIS_KCYPROGSTATE_GIS&lt;div&gt;(건축인허가진행상태)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327" y="5010" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VH6Z0ZgjPFkxIiHiAUJ0-40" value="EAIS_KCYPLATPLC_GIS&lt;br&gt;&lt;div&gt;(건축인허가 대지 위치)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327" y="4950" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VH6Z0ZgjPFkxIiHiAUJ0-41" value="EAIS_KCYPMSRGST_GIS&lt;div&gt;(건축물대장)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327" y="4890" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VH6Z0ZgjPFkxIiHiAUJ0-42" value="일단 변경이력, 변동분을 DB에 밀어넣는다.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;그리고 KCR_ 같은 원본테이블에 변경이력을 적용한다.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;그 다음 EAIS 테이블들에 반영한다.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="4960" width="180" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
