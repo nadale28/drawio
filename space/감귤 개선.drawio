@@ -38,7 +38,7 @@
           <mxGeometry x="-126.00090909090949" y="531.0045454545452" width="481" height="635" as="geometry" />
         </mxCell>
         <mxCell id="e5SyqI5a1ToQ3FEApVQ_-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-528" y="1447" width="371" height="566" as="geometry" />
+          <mxGeometry x="-528" y="1447" width="371" height="783" as="geometry" />
         </mxCell>
         <mxCell id="e5SyqI5a1ToQ3FEApVQ_-7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="-527" y="1447" width="369" height="186" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="-506" y="1589" width="322" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e5SyqI5a1ToQ3FEApVQ_-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-157" y="1447" width="377" height="566" as="geometry" />
+          <mxGeometry x="-157" y="1447" width="377" height="781" as="geometry" />
         </mxCell>
         <mxCell id="e5SyqI5a1ToQ3FEApVQ_-15" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="-505" y="1559" width="17" height="17" as="geometry" />
@@ -161,7 +161,7 @@
           <mxGeometry x="157" y="1499.5" width="56" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="e5SyqI5a1ToQ3FEApVQ_-50" value="편집시작" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="96" y="1529" width="56" height="23.5" as="geometry" />
+          <mxGeometry x="157" y="1529" width="56" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="e5SyqI5a1ToQ3FEApVQ_-51" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="-148" y="1562" width="8" height="24" as="geometry" />
@@ -176,7 +176,16 @@
           <mxGeometry x="-149.49996948242188" y="1591.5" width="363" height="277" as="geometry" />
         </mxCell>
         <mxCell id="e5SyqI5a1ToQ3FEApVQ_-59" value="편집이력" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="157" y="1529" width="56" height="23.5" as="geometry" />
+          <mxGeometry x="94" y="1498.5" width="56" height="23.5" as="geometry" />
+        </mxCell>
+        <mxCell id="e5SyqI5a1ToQ3FEApVQ_-60" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="-148" y="1882.5" width="8" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="e5SyqI5a1ToQ3FEApVQ_-61" value="현장조사 정보" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-137" y="1880" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e5SyqI5a1ToQ3FEApVQ_-63" value="조사신청이력" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12" y="1499.5" width="75" height="23.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
