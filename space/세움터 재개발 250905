@@ -403,7 +403,7 @@
           <mxGeometry height="60" width="170" x="133.5" y="4880" as="geometry" />
         </mxCell>
         <mxCell id="bn7DkRjt33qgSE3Bh-hI-5" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=default;strokeColor=default;" value="&lt;div&gt;KCR_PROG_STATE&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="163" x="133.5" y="5010" as="geometry" />
+          <mxGeometry height="60" width="166.5" x="133.5" y="5010" as="geometry" />
         </mxCell>
         <mxCell id="bn7DkRjt33qgSE3Bh-hI-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;rounded=0;gradientColor=none;" value="&lt;div&gt;KCR_PLAT_LC&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="170" x="133.5" y="4945" as="geometry" />
