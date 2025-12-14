@@ -417,6 +417,9 @@
         <mxCell id="tnuW15Jw5tGF_H48sfy0-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=14;" value="&lt;div style=&quot;line-height: 160%;&quot;&gt;일단 변경이력부터 밀어 넣는다.&lt;div&gt;아래와 같은 패턴을 가진 파일을 넣는다.&lt;/div&gt;&lt;div&gt;단 일주일 이내의 파일들만 넣는다.&lt;br&gt;&lt;div&gt;GMDUPT$SYNCHRN_SYNCHRN_JOB_MGM_&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;넣을 때는 merge 문으로 중복 데이터가 있다면 무시 ( 테이블명, 발생일시로 중복인지 판단 )&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;예시&lt;/div&gt;&lt;div&gt;D:\JJUIS\Shape\eais\recieve\CG174137603094\202512130700342f3067$GMDUPT$SYNCHRN_20251213\GMDUPT$SYNCHRN_SYNCHRN_JOB_MGM_20251213.txt&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="250" width="950" x="40" y="6500" as="geometry" />
         </mxCell>
+        <mxCell id="tnuW15Jw5tGF_H48sfy0-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="KCR_PMSRGST_KCR_PMSRGST_20251213." vertex="1">
+          <mxGeometry height="60" width="409" x="381" y="6800" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
