@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.3">
   <diagram name="페이지-1" id="o6KqDLGFhGPXgnpfwPCX">
     <mxGraphModel dx="1042" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -413,6 +413,9 @@
         </mxCell>
         <mxCell id="c4y_kGHVIobgXaug_nBd-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="이렇게 하면 최근&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="420" x="370" y="6050" as="geometry" />
+        </mxCell>
+        <mxCell id="tnuW15Jw5tGF_H48sfy0-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=14;" value="&lt;div style=&quot;line-height: 160%;&quot;&gt;일단 변경이력부터 밀어 넣는다.&lt;div&gt;아래와 같은 패턴을 가진 파일을 넣는다.&lt;/div&gt;&lt;div&gt;단 일주일 이내의 파일들만 넣는다.&lt;br&gt;&lt;div&gt;GMDUPT$SYNCHRN_SYNCHRN_JOB_MGM_&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;넣을 때는 merge 문으로 중복 데이터가 있다면 무시 ( 테이블명, 발생일시로 중복인지 판단 )&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;예시&lt;/div&gt;&lt;div&gt;D:\JJUIS\Shape\eais\recieve\CG174137603094\202512130700342f3067$GMDUPT$SYNCHRN_20251213\GMDUPT$SYNCHRN_SYNCHRN_JOB_MGM_20251213.txt&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="250" width="950" x="40" y="6500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
