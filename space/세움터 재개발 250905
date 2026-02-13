@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
   <diagram name="페이지-1" id="o6KqDLGFhGPXgnpfwPCX">
     <mxGraphModel dx="1042" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -420,8 +420,84 @@
         <mxCell id="tnuW15Jw5tGF_H48sfy0-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="KCR_PMSRGST_KCR_PMSRGST_20251213." vertex="1">
           <mxGeometry height="60" width="409" x="381" y="6800" as="geometry" />
         </mxCell>
-        <mxCell id="JvIRy45zdRtzTqtIZdAi-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="145" y="6910" as="geometry" />
+        <mxCell id="OcgpSpE0692SnAQIz12Q-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="EaisBatch2025Configuration1" vertex="1">
+          <mxGeometry height="60" width="185" x="216" y="7140" as="geometry" />
+        </mxCell>
+        <mxCell id="OcgpSpE0692SnAQIz12Q-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="EaisBatch2025Configuration2" vertex="1">
+          <mxGeometry height="60" width="185" x="216" y="7220" as="geometry" />
+        </mxCell>
+        <mxCell id="OcgpSpE0692SnAQIz12Q-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="EaisBatch2025Configuration4" vertex="1">
+          <mxGeometry height="60" width="185" x="216" y="7380" as="geometry" />
+        </mxCell>
+        <mxCell id="OcgpSpE0692SnAQIz12Q-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="EaisBatch2025Configuration3" vertex="1">
+          <mxGeometry height="60" width="185" x="216.00000000000006" y="7300" as="geometry" />
+        </mxCell>
+        <mxCell id="OcgpSpE0692SnAQIz12Q-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SYNCHRN_SYNCHRN_JOB_MGM_" vertex="1">
+          <mxGeometry height="60" width="236" x="428" y="7140" as="geometry" />
+        </mxCell>
+        <mxCell id="OcgpSpE0692SnAQIz12Q-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="KCR_PMS_RGST_KCR_PMSRGST_" vertex="1">
+          <mxGeometry height="60" width="236" x="428" y="7220" as="geometry" />
+        </mxCell>
+        <mxCell id="OcgpSpE0692SnAQIz12Q-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="KCR_PMS_RGST_KCR_PROG_STATE_" vertex="1">
+          <mxGeometry height="60" width="236" x="428" y="7300" as="geometry" />
+        </mxCell>
+        <mxCell id="OcgpSpE0692SnAQIz12Q-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="KCR_PMS_RGST_KCR_PLAT_LC_" vertex="1">
+          <mxGeometry height="60" width="237" x="427" y="7380" as="geometry" />
+        </mxCell>
+        <mxCell id="OcgpSpE0692SnAQIz12Q-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="변경이력" vertex="1">
+          <mxGeometry height="60" width="120" x="694" y="7140" as="geometry" />
+        </mxCell>
+        <mxCell id="OcgpSpE0692SnAQIz12Q-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="허가대장" vertex="1">
+          <mxGeometry height="60" width="120" x="694" y="7220" as="geometry" />
+        </mxCell>
+        <mxCell id="OcgpSpE0692SnAQIz12Q-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="인허가진행상태" vertex="1">
+          <mxGeometry height="60" width="120" x="694" y="7300" as="geometry" />
+        </mxCell>
+        <mxCell id="OcgpSpE0692SnAQIz12Q-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="허가위치" vertex="1">
+          <mxGeometry height="60" width="120" x="694" y="7380" as="geometry" />
+        </mxCell>
+        <mxCell id="OcgpSpE0692SnAQIz12Q-16" edge="1" parent="1" source="OcgpSpE0692SnAQIz12Q-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="OcgpSpE0692SnAQIz12Q-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="7170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OcgpSpE0692SnAQIz12Q-17" edge="1" parent="1" source="OcgpSpE0692SnAQIz12Q-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="OcgpSpE0692SnAQIz12Q-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="7250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OcgpSpE0692SnAQIz12Q-18" edge="1" parent="1" source="OcgpSpE0692SnAQIz12Q-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="OcgpSpE0692SnAQIz12Q-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="7330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OcgpSpE0692SnAQIz12Q-19" edge="1" parent="1" source="OcgpSpE0692SnAQIz12Q-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="OcgpSpE0692SnAQIz12Q-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="7410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OcgpSpE0692SnAQIz12Q-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="EaisApp" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="6940" as="geometry" />
+        </mxCell>
+        <mxCell id="OcgpSpE0692SnAQIz12Q-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="eaisZipExtractorService" vertex="1">
+          <mxGeometry height="60" width="187.25" x="212.75" y="7060" as="geometry" />
+        </mxCell>
+        <mxCell id="OcgpSpE0692SnAQIz12Q-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="extractAllZipFiles" vertex="1">
+          <mxGeometry height="60" width="120" x="427" y="7060" as="geometry" />
+        </mxCell>
+        <mxCell id="OcgpSpE0692SnAQIz12Q-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;압축해제&lt;div&gt;기존 폴더가 있으면 삭제하고 다시 압축해제한다 ( 재전송으로 파일 변경된 경우가 있을 수 있으니 )&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="380" x="570" y="7060" as="geometry" />
+        </mxCell>
+        <mxCell id="OcgpSpE0692SnAQIz12Q-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="7일 이내의 파일들만&lt;div&gt;읽어 반영한다.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="300" width="120" x="834" y="7140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
